@@ -1,0 +1,72 @@
+---
+id: 1
+name: "Mairie du 1er Arrondissement de Lyon"
+latitude: 45.769440
+longitude: 4.830100
+address: "2 place Sathonay - 69283 Lyon"
+phone: "04.72.98.54.04"
+webSite: "https://www.mairie1.lyon.fr"
+---
+id: 2
+name: "Mairie du 2ème Arrondissement de Lyon"
+latitude: 45.753220
+longitude: 4.827020
+address: "2 rue d'Enghien - 69287 Lyon"
+phone: "04.78.92.73.00"
+webSite: "https://mairie2.lyon.fr"
+---
+id: 3
+name: "Mairie du 3eme Arrondissement de Lyon"
+latitude: 45.7603086
+longitude: 4.8495613
+address: "18 rue François Garcin - 69003 Lyon"
+phone: "04.78.95.83.50"
+webSite: "http://www.mairie3.lyon.fr"
+---
+id: 4
+name: "Mairie du 4ème Arrondissement de Lyon"
+latitude: 45.7745452
+longitude: 4.8276591
+address: "133 boulevard de la Croix-Rousse - 69004 Lyon"
+phone: "04.72.98.23.50"
+webSite: "https://www.mairie4.lyon.fr"
+---
+id: 5
+name: "Mairie du 5ème Arrondissement de Lyon"
+latitude: 45.7579883
+longitude: 4.8010226
+address: "14 rue Docteur Edmond Locard - 69005 Lyon"
+phone: "04.72.38.45.50"
+webSite: "https://mairie5.lyon.fr"
+---
+id: 6
+name: "Mairie du 6eme Arrondissement de Lyon"
+latitude: 45.768362
+longitude: 4.849315
+address: "58 Rue de Sèze - 69006 Lyon"
+phone: "04.72.83.15.00"
+webSite: "http://www.mairie6.lyon.fr"
+---
+id: 7
+name: "Mairie du 7eme Arrondissement de Lyon"
+latitude: 45.746313
+longitude: 4.841831
+address: "16 place Jean Macé - 69007 Lyon"
+phone: "04.72.73.68.00"
+webSite: "http://www.mairie7.lyon.fr"
+---
+id: 8
+name: "Mairie du 8eme Arrondissement de Lyon"
+latitude: 45.731445
+longitude: 4.885083
+address: "12 avenue Jean Mermoz - 69008 Lyon"
+phone: "04.72.78.33.00"
+webSite: "http://www.mairie8.lyon.fr"
+---
+id: 9
+name: "Mairie du 9eme Arrondissement de Lyon"
+latitude: 45.7740036
+longitude: 4.8059699
+address: "6 place du Marché - 69009 Lyon"
+phone: "04.72.19.81.81"
+webSite: "http://www.mairie9.lyon.fr"
